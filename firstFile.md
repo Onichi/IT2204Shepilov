@@ -15,7 +15,7 @@
 ### Инструкция по запуску
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/yourusername/mobile-dev-labs.git
+   https://github.com/Onichi/IT2204Shepilov.git
    cd mobile-dev-labs
    ```
 2. Откройте соответствующую лабораторную работу в среде разработки.
